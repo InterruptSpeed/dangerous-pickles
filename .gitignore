@@ -1,0 +1,5 @@
+data/*
+*.sav
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
